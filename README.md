@@ -1,5 +1,5 @@
-# Hello World
+# apnachanel
+This is my first Git repository
 
-My name is Muhammad Bilal
+Author - Muhammad Bilal
 
-This is my First Project at github
